@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1"> A capacidade pouco vale sem oportunidade. </string>
+    <string name="affirmation2"> Qual é o ponto de estar vivo se você não tentar fazer algo notável?. </string>
+    <string name="affirmation3"> O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso. </string>
+    <string name="affirmation4"> Não levante sua voz, melhore seu argumento. </string>
+    <string name="affirmation5"> O ser capaz mora perto da necessidade. </string>
+    <string name="affirmation6"> Ter sucesso é falhar repetidamente, mas sem perder o entusiasmo! </string>
+    <string name="affirmation7"> As pessoas não carecem de força, carecem de determinação. </string>
+    <string name="affirmation8"> As pessoas costumam dizer que a motivação não dura. Bem, nem banho - é por isso que recomendamos diariamente. </string>
+    <string name="affirmation9"> Não tenha medo de desistir do bom para ir ao grande </string>
+    <string name="affirmation10"> Não deixe o que você não pode fazer interferir com o que você pode fazer. </string>
+
+</resources>
